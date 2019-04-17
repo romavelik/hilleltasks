@@ -5,7 +5,7 @@ public class Test
   public static void main(String[] args)
   {
     int to = 10;
-    int from = 1;
+    int from = 10;
     printMultiplicationTable(to, from);
   }
 
